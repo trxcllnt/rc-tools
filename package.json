@@ -96,7 +96,8 @@
     "url-loader": "^0.5.7",
     "webpack": "^2.2.1",
     "xtemplate": "^4.4.2",
-    "xtpl": "^3.2.0"
+    "xtpl": "^3.2.0",
+    "tar.gz": "^1.0.5"
   },
   "devDependencies": {
     "pre-commit": "1.x"
